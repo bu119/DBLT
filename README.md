@@ -279,9 +279,17 @@
 
 ▲ 약속이(캐릭터)의 색, 장갑, 꼬리 등 파츠를 착용하고 구매할 수 있는 페이지
 
+<br />
 
-<br />
-<br />
+### 게임 페이지
+
+<div style="display : flex; flex-direction : row; gap:10px;">
+  <img src="./upload/DBLT_01_game.gif" width=150px/>
+</div>
+
+▲ 지각비를 획득 할 수 있는 페이지
+
+<br/><br />
 
 ## 📄실행방법
 
@@ -356,7 +364,7 @@
 
 ## 🗃ERD
 
-![DBLT_ERD](./upload/DBLT_ERD.png)
+![DBLT_ERD](./upload/DBLT_ERD.svg)
 
 <br />
 <br />
